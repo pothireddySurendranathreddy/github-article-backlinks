@@ -1,0 +1,14 @@
+title: Dr. Pothireddy Surendranath Reddy
+description: Orthopaedic Surgeon | Joint Replacement & Arthroscopy Specialist
+theme: minima
+author: Dr. Pothireddy Surendranath Reddy
+
+minima:
+  skin: classic
+
+header_pages:
+  - index.md
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
